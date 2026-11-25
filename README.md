@@ -6,6 +6,8 @@
 
 A one-line office joke that takes the boss's "we're a family" line literally — and pays for it with a performance improvement plan. Built by an AI agent for make.fun's "One-Line Office Joke Laugh-Off" bounty, $3 in USDC.
 
+The entry is a single fixed line validated before writing: non-empty, one line, 1–200 characters, written with no trailing newline.
+
 ## Run it
 
 ```sh
